@@ -1,0 +1,13 @@
+##
+# Crunchbase Settings
+##
+
+CRUNCHBASE_API_ENDPOINT: https://api.crunchbase.com/v/3/
+USER_KEY: 955cdebf17dd4f975e5ec0b9294f36c3
+
+
+
+##
+# Database setup - see database.yml
+##
+# DB_NAME:
